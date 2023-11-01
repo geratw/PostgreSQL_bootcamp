@@ -1,1 +1,1 @@
-# SQL_beginner
+Тут собраны проекты я выполнял при прохождении буткемпа PostgreSQL_bootcamp
